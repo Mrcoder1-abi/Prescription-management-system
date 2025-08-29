@@ -91,8 +91,6 @@ Add Prescription → http://localhost:8080/Prescription-Management-System/index.
 
 View Prescriptions → http://localhost:8080/Prescription-Management-System/viewPrescription.jsp
 
-📸 Screenshots
-(Add your UI screenshots here if you want)
 
 📌 Future Improvements
 Update & Delete prescription records
